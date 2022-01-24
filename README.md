@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a mathematician working in the finance. Building bridges between theoretical ideas and practical applications is my passion.
+
+I'm living in Krakow, Poland.
+
+Currently, I'm developing my Python skills working on small individual projects.
+
 <!--
 **maciej-lewicki/maciej-lewicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
