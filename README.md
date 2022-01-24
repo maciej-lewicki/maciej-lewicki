@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a mathematician working infinance. Building bridges between theoretical ideas and practical applications is my passion.
+I'm a mathematician working in finance. Building bridges between theoretical ideas and practical applications is my passion.
 
 I'm living in Krakow, Poland.
 
