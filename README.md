@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a mathematician working in finance. Building bridges between theoretical ideas and practical applications is my passion.
+I'm a mathematician working in finance :chart:. Building bridges between theoretical ideas and practical applications is my passion :bridge_at_night:.
 
-Currently, I'm developing my Python skills working on small individual projects.
+Currently, I'm developing my Python skills working on small individual projects :snake:.
 
 <!--
 **maciej-lewicki/maciej-lewicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
