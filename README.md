@@ -2,8 +2,6 @@
 
 I'm a mathematician working in finance. Building bridges between theoretical ideas and practical applications is my passion.
 
-I'm living in Krakow, Poland.
-
 Currently, I'm developing my Python skills working on small individual projects.
 
 <!--
