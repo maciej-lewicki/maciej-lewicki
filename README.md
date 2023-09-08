@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a mathematician working in finance :chart:. Building bridges between theoretical ideas and practical applications is my passion :bridge_at_night:.
+I am a mathematician with experience at banking and insurance industries. :chart:. Building bridges between theoretical ideas and practical applications is my passion :bridge_at_night:.
 
 Currently, I'm developing my Python skills working on small individual projects :snake:.
 
