@@ -2,7 +2,9 @@
 
 I am a mathematician with experience at banking and insurance industries. :chart:. Building bridges between theoretical ideas and practical applications is my passion :bridge_at_night:.
 
-Currently, I'm developing my Python skills working on small individual projects :snake:.
+When I have time, I develop my Python skills working on small individual projects :snake:.
+
+However, I've temporarily put on hold my activity on GitHub due to big changes in my personal life :baby:.
 
 <!--
 **maciej-lewicki/maciej-lewicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
